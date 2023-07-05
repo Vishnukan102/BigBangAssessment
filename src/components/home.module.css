@@ -1,0 +1,8 @@
+.image_container {
+    width: 100vw;  
+    height: 100vh; 
+    background-image: url('../images/doc.jpeg');
+    background-size: contain; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+  }
