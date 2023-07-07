@@ -1,6 +1,6 @@
 # Doctor Patient Project
 
-Welcome to the Doctor Patient Project! This project aims to create a platform where doctors and patients can interact and manage medical appointments efficiently.
+Welcome to the Doctor Patient Project! 
 
 ## Features
 
